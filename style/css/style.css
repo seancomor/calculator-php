@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+body > .cont > .inside-cont {
+    margin: 0 auto;
+    position: absolute;
+    top: 25%;
+}
